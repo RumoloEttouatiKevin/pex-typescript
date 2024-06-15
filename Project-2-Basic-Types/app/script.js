@@ -15,3 +15,15 @@ var member = {
     level: ["admin", 1],
 };
 member.level[0] = "moderator";
+//! object
+var car = {
+    color: "red",
+    date: 2020,
+    speed: 500,
+};
+var car2 = {
+    color: "red",
+    date: 2020,
+    speed: 500,
+};
+// car2.color = "orange";
